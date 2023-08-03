@@ -13,7 +13,7 @@ export const App = () => {
       React homework template'
 
 
-
+дуже погана робота!!!!
       
     </div>
   );
